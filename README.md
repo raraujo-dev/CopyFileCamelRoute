@@ -1,3 +1,8 @@
+# Introduction
+
+The purpose of this project is to show how camel simplify the way to create integrations when comparing with "CLASSIC JAVA"
+
+
 # Spring-Boot Camel QuickStart
 
 This example demonstrates how you can use Apache Camel with Spring Boot.
