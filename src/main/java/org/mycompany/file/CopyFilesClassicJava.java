@@ -8,8 +8,7 @@ import java.io.OutputStream;
 
 
 public class CopyFilesClassicJava {
-	
-	
+		
 	
 	public static void main(String[] args) throws IOException {
 		
